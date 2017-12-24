@@ -1,0 +1,8 @@
+title: Giako's space
+description: I'm in spaaaaaaace!
+google_analytics: UA-35688604-2
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
