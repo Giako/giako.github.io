@@ -3,7 +3,7 @@ Hi, my name is Giacomo "@Giako" Russo.
 I'm an Italian geek who loves programming, GNU/Linux and videogames (on Linux). In my free time, I listen to trance music, dubstep and indie EDM and I love American TV series (I'm a huge Breaking Bad and Game of Thrones fan!).
 
 ## What I do at day
-* I code, develop, design, build, test and manage teams for a living at [Stentle](http://www.stentle.com/), in Milan (IT). I'm an IT consultant with a focus on Enterprise Architectures.
+* I code, develop, design, build, test and manage teams for a living at [Stentle](http://www.stentle.com/), in Milan (IT).
 * Drink coffee (Italian Espresso only!)
 
 ## What I do at night
